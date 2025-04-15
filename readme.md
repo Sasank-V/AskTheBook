@@ -22,8 +22,8 @@ AskTheBook is an advanced Retrieval-Augmented Generation (RAG) application that 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/bookqa.git
-   cd bookqa
+   git clone https://github.com/Sasank-V/AskTheBook.git
+   cd AskTheBook
    ```
 
 2. **Create a virtual environment**
