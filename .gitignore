@@ -3,5 +3,7 @@ data
 figures
 images
 index
-venv
-summaries
+.venv
+captions
+temp
+__pycache__
